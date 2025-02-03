@@ -1,0 +1,29 @@
+{
+  "staging": {
+    "platformName": "Android",
+    "appium:deviceName": "Pixel_9",
+    "appium:app": "/Users/rishabsingh/Documents/SauceCukeDroid/applications/SauceLab.apk",
+    "appium:automationName": "UiAutomator2",
+    "appium:appPackage": "com.swaglabsmobileapp",
+    "appium:appActivity": "com.swaglabsmobileapp.MainActivity",
+    "appium:autoGrantPermissions": "true"
+  },
+  "integration": {
+    "platformName": "Android",
+    "appium:deviceName": "Pixel_9",
+    "appium:app": "/Users/rishabsingh/Documents/SauceCukeDroid/applications/SauceLab.apk",
+    "appium:automationName": "UiAutomator2",
+    "appium:appPackage": "com.swaglabsmobileapp",
+    "appium:appActivity": "com.swaglabsmobileapp.MainActivity",
+    "appium:autoGrantPermissions": "true"
+  },
+  "production": {
+    "platformName": "Android",
+    "appium:deviceName": "Pixel_9",
+    "appium:app": "/Users/rishabsingh/Documents/SauceCukeDroid/applications/SauceLab.apk",
+    "appium:automationName": "UiAutomator2",
+    "appium:appPackage": "com.swaglabsmobileapp",
+    "appium:appActivity": "com.swaglabsmobileapp.MainActivity",
+    "appium:autoGrantPermissions": "true"
+  }
+}

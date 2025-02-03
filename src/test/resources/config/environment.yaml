@@ -1,0 +1,12 @@
+environments:
+  staging:
+    username: "standard_user"
+    password: "secret_sauce"
+
+  integration:
+    username: "locked_out_user"
+    password: "secret_sauce"
+
+  production:
+    username: "problem_user"
+    password: "secret_sauce"
