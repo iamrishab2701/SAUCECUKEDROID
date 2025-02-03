@@ -28,4 +28,5 @@ allure-history/
 
 # Ignore test output files
 test-output/
+.vscode/
 
